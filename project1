@@ -1,1 +1,0 @@
-This MATLAB orbital calculator inputs unit type, perigee altitude, apogee altitude, and true anomaly; and outputs calculated variables. This example references an object in elliptical orbit around Earth. 
