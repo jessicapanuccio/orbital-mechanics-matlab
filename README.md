@@ -11,7 +11,7 @@ This repository highlights orbital mechanics MATLAB programming projects.
 **Folder:** `perifocal_lagrange_propagator/`
 
 ### General Coplanar Hohmann Transfer Program
-**Folder:** `hohmann-transfer/`
+**Folder:** `coplanar-hohmann-transfer/`
 
 ---
 ## Author
