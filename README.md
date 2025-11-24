@@ -1,8 +1,18 @@
 # orbital-mechanics-matlab
-MATLAB programming projects highlighting orbital mechanics calculations.
 
-Projects showcased include:
+This repository highlights orbital mechanics MATLAB programming projects.
 
-  1. Earth-Centered Elliptical Orbit Calculator
-  2. Perifocal Frame and Lagrange Coefficients Calculator
-  3. General Coplanar Hohmann Transfer Program
+## Projects
+
+### Earth-Centered Elliptical Orbit Calculator
+**Folder:** `eliptical-orbit-calculator/`
+
+### Perifocal Frame and Lagrange Coefficients Calculator
+**Folder:** `perifocal_lagrange_propagator/`
+
+### General Coplanar Hohmann Transfer Program
+**Folder:** `hohmann-transfer/`
+
+---
+## Author
+Jessica Panuccio
